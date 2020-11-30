@@ -1,0 +1,2 @@
+# Rust-Repair-
+A GUI Based Complete vehicle Repair shop management System using Java...Manage Repair Jobs(Add ,Update, Remove),Manage Vehicle Restoration Jobs (Add ,Update ,Remove),Manage Spare parts, Manage Parts Suppliers, Allocate employees to the Repairs/Restoration Jobs., Monthly Income and Expenses report, Send notification to the suppliers when parts are out of stock Available in this Project. database created with MS sql Server
